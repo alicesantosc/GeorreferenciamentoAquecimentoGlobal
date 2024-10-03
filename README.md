@@ -1,6 +1,8 @@
 # 🌍 Global Temperature Analysis Project 🔥
 
 Este projeto tem como objetivo analisar e visualizar dados históricos de temperatura global, explorando as variações de temperatura por país e ao longo dos anos. Utilizando ferramentas de visualização interativa e análise de dados, ele facilita a compreensão das mudanças climáticas globais.
+Projeto Feito seguindo curso da Udemy: Spatial Analysis & Geospatial Data Science in Python
+
 
 ## 📋 Funcionalidades
 
